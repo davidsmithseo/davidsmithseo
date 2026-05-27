@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm David
 
-<!--
-**davidsmithseo/davidsmithseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've worked in SEO for over 20 years, alongside PPC, web development, freelance projects, and personal website experiments.
 
-Here are some ideas to get you started:
+I work on practical web tools, SEO utilities, WordPress projects, and small workflow helpers for people who manage websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my public work is currently connected to Ratch Lab, where I am building lightweight tools for website checks, URL reviews, CSV workflows, and WordPress-based utilities.
+
+## What I work on
+
+- Browser extensions for page checks and link reviews
+- WordPress plugins and website utilities
+- CSV-based review and data-cleaning workflows
+- SEO and technical website QA tools
+- Small experiments and utilities that may become public tools over time
+
+## Current focus
+
+Right now, I am focusing on a set of small, practical tools under the Ratch Lab name. The aim is to keep them lightweight, useful, and easy to understand.
+
+## Links
+
+- Ratch Lab: [github.com/ratchlab](https://github.com/ratchlab)
+- Ratch Lab website: [ratchlab.com](https://www.ratchlab.com)
+- Personal website: [davidsmithseo.com](https://www.davidsmithseo.com)
+
+---
+
+Building small tools for useful web work.
